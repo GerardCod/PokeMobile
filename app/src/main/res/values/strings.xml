@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokeMobile</string>
+    <string name="logo_description">This is the app logo</string>
+    <string name="text_search_pokemon">Enter a pokemon name</string>
+    <string name="hint_search_pokemon">Pokemon name</string>
+    <string name="img_description">This is the pokemon image searched</string>
+    <string name="pokemon_name">Charmander</string>
+    <string name="pokemon_type">Fire</string>
+</resources>
